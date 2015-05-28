@@ -1,0 +1,28 @@
+@charset "utf-8";
+/* CSS Document */
+
+h3 {text-align:center}
+
+#divima{width:600px; height:220px; margin-left:50px; background-color:#06F}
+#divtexto{width:350px; height:200px; margin-left:5px; background-color:#C09; float:right}
+#divima2{width:600px; height:220px; margin-left:50px; background-color:#90F}
+#divtexto2{width:350px; height:200px; margin-left:5px; background-color:#0F9; float:right}
+#divima3{width:600px; height:220px; margin-left:50px; background-color:#F03}
+#divtexto3{width:350px; height:200px; margin-left:5px; background-color:#60F; float:right}
+#divima4{width:600px; height:220px; margin-left:50px; background-color:#F3C}
+#divtexto4{width:350px; height:200px; margin-left:5px; background-color:#6CF; float:right}
+#divima5{width:600px; height:220px; margin-left:50px; background-color:#F0F}
+#divtexto5{width:350px; height:200px; margin-left:5px; background-color:#FF0; float:right}
+#divima6{width:600px; height:220px; margin-left:50px; background-color:#9FC}
+#divtexto6{width:350px; height:200px; margin-left:5px; background-color:#60F; float:right}
+#divima7{width:600px; height:220px; margin-left:50px; background-color:#F00}
+#divtexto7{width:350px; height:200px; margin-left:5px; background-color:#FF3; float:right}
+#divima8{width:600px; height:220px; margin-left:50px; background-color:#33F}
+#divtexto8{width:350px; height:200px; margin-left:5px; background-color:#CCC; float:right}
+#divima9{width:600px; height:220px; margin-left:50px; background-color:#9F9}
+#divtexto9{width:350px; height:200px; margin-left:5px; background-color:#FFC; float:right}
+#divima10{width:600px; height:220px; margin-left:50px; background-color:#F06}
+#divtexto10{width:350px; height:200px; margin-left:5px; background-color:#C3C; float:right}
+
+
+#divprecio{width:100px; height:50px; margin-left:5px; background-color:#FFF; float:right; margin-right:5px;}
